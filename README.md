@@ -23,7 +23,7 @@ Our project addresses this challenge by developing an advanced data science appl
 
 ## Getting Started
 
-(In this section, you can add instructions on how to install, configure, and run your application, including any dependencies or preliminary steps required.)
+(instructions)
 
 ## Contributions
 
