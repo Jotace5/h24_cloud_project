@@ -1,0 +1,24 @@
+
+Se detalla el proceso de seleccion y separacion de las planillas segun la empresa House24:
+
+
+
+CUIDADOR
+
+Por un lado, identificamos que la planilla de presentismo contenga el nombre y apellido del paciente, el período a facturar, y la obra social en la parte superior. También, deben estar firmados los días asistidos en el renglón de la fecha correspondiente: en la primera columna el nombre del personal, en la segunda columna su firma, y en la tercera columna la firma del paciente/familiar. Finalmente, en la parte inferior de la planilla, a la izquierda debe estar la firma del personal, la aclaración y el DNI. Y en la parte derecha, debe estar la firma, la aclaración y el DNI del paciente/familiar.
+
+Por otro lado, la planilla de evolución debe contener también el nombre del paciente y el período. En la columna de la izquierda, deben colocar la fecha del día trabajado, y en la columna más grande de la derecha deben describir las actividades que realizan durante la guardia trabajada. Esta evolución debe contener horarios de ingreso y salida. Y al finalizar la redacción diaria, deben firmar por debajo, con nombre, firma y DNI. 
+
+
+ENFERMERÍA
+
+Por un lado, identificamos que la planilla de presentismo contenga el nombre y apellido del paciente, el período a facturar, y la obra social en la parte superior. También, deben estar firmados los días asistidos en el renglón de la fecha correspondiente: en la primera columna el nombre del personal, en la segunda columna su sello, y en la tercera columna la firma del paciente/familiar. Finalmente, en la parte inferior de la planilla, a la izquierda debe estar la firma del personal y su sello. Y en la parte derecha, debe estar la firma, la aclaración y el DNI del paciente/familiar.
+
+Por otro lado, la planilla de evolución debe contener también el nombre del paciente y el período. En la columna de la izquierda, deben colocar la fecha del día trabajado (la cual debe coincidir con el renglón firmado anteriormente en la planilla de presentismo), y en la columna más grande de la derecha deben describir las actividades que realizan durante la guardia (o prestación) trabajada. Esta evolución debe contener horarios de ingreso y salida. Y al finalizar la redacción diaria, deben firmar por debajo, con firma y sello.
+
+
+KINESIOLOGÍA/ FONOAUDIOLOGÍA/ TERAPIA OCUPACIONAL
+
+Por un lado, identificamos que la planilla de presentismo contenga el nombre y apellido del paciente, el período a facturar, y la obra social en la parte superior. También, deben estar firmados los días asistidos en el renglón de la fecha correspondiente: en la primera columna el nombre del personal, en la segunda columna su sello, y en la tercera columna la firma del paciente/familiar. Finalmente, en la parte inferior de la planilla, a la izquierda debe estar la firma del personal y su sello. Y en la parte derecha, debe estar la firma, la aclaración y el DNI del paciente/familiar.
+
+Por otro lado, la planilla de evolución debe contener también el nombre del paciente y el período. En la columna de la izquierda, deben colocar la fecha del día trabajado (la cual debe coincidir con el renglón firmado anteriormente en la planilla de presentismo), y en la columna más grande de la derecha deben describir las actividades que realizan durante la prestación. Para finalizar, deben firmar por debajo, con firma y sello.
