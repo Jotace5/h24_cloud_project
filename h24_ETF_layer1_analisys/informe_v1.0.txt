@@ -75,7 +75,6 @@ Version: 1.0
 - Subcarpeta: PSI-6+pags, Archivos: 0, Porcentaje: 0.00%
 Cantidad total de archivos en la carpeta: 75
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ARCHIVOS DE LA CARPETA PSICOPEDAGOGA fueron a CARPETA PSICOLOGIA
 Informe para la carpeta: Psicopedagoga
 Fecha: 2023-10-10
@@ -85,7 +84,6 @@ Version: 1.0
 - Subcarpeta: PSICOPED-4-5pags, Archivos: 0, Porcentaje: 0.00%
 - Subcarpeta: PSICOPED-6+pags, Archivos: 0, Porcentaje: 0.00%
 Cantidad total de archivos en la carpeta: 7 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Informe para la carpeta: Psiquiatra
 Fecha: 2023-10-10
