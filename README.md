@@ -26,7 +26,7 @@ Our project addresses this challenge by developing an advanced data science appl
 
 ## Getting Started
 
-(instructions)
+Within the project folder, you will find 3 subfolders. One corresponds to the part of **h24_data_engineering** where a data understanding process is carried out to then develop the corresponding training for GCP ML models. Those data are located in the **h24_ml_models** folder, where the process undertaken is explained. The last folder, **h24_ai_app**, corresponds to the backend development of the app and the progress made with it.
 
 ## Contributions
 
