@@ -1,4 +1,5 @@
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+
   
 # Data Extraction and Analysis System for House24
 
