@@ -1,0 +1,19 @@
+This is a detailed explanation of the process of selecting and separating spreadsheets according to the House24 company:
+
+CAREGIVER
+
+On one hand, we identify that the attendance spreadsheet should contain the patient's name and surname, the billing period, and the health insurance at the top. Additionally, the attended days must be signed in the corresponding date row: in the first column, the staff member's name, in the second column, their signature, and in the third column, the patient/family member's signature. Finally, at the bottom of the spreadsheet, on the left side, the staff member's signature, clarification, and ID should be present. On the right side, the patient/family member's signature, clarification, and ID should be included.
+
+On the other hand, the progress spreadsheet should also contain the patient's name and the period. In the left column, the date of the worked day should be placed, and in the larger column on the right side, the activities performed during the shift should be described. This progress should include entry and exit times. At the end of the daily report, they must sign below, with name, signature, and ID.
+
+NURSING
+
+On one hand, we identify that the attendance spreadsheet should contain the patient's name and surname, the billing period, and the health insurance at the top. Additionally, the attended days must be signed in the corresponding date row: in the first column, the staff member's name, in the second column, their stamp, and in the third column, the patient/family member's signature. Finally, at the bottom of the spreadsheet, on the left side, the staff member's signature and stamp should be present. On the right side, the patient/family member's signature, clarification, and ID should be included.
+
+On the other hand, the progress spreadsheet should also contain the patient's name and the period. In the left column, the date of the worked day (which must match the previously signed row in the attendance spreadsheet) should be placed, and in the larger column on the right side, the activities performed during the shift (or service) should be described. This progress should include entry and exit times. At the end of the daily report, they must sign below, with signature and stamp.
+
+PHYSIOTHERAPY / SPEECH THERAPY / OCCUPATIONAL THERAPY
+
+On one hand, we identify that the attendance spreadsheet should contain the patient's name and surname, the billing period, and the health insurance at the top. Additionally, the attended days must be signed in the corresponding date row: in the first column, the staff member's name, in the second column, their stamp, and in the third column, the patient/family member's signature. Finally, at the bottom of the spreadsheet, on the left side, the staff member's signature and stamp should be present. On the right side, the patient/family member's signature, clarification, and ID should be included.
+
+On the other hand, the progress spreadsheet should also contain the patient's name and the period. In the left column, the date of the worked day (which must match the previously signed row in the attendance spreadsheet) should be placed, and in the larger column on the right side, the activities performed during the service should be described. To finish, they must sign below, with signature and stamp.
