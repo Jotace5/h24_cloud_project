@@ -1,0 +1,3939 @@
+[
+    {
+        "row_index": 0,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "1",
+                "cell_confidence": 0.9836438298225403,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 501,
+                    "x_max": 1615,
+                    "y_max": 558
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 501
+                    },
+                    {
+                        "x": 200,
+                        "y": 501
+                    },
+                    {
+                        "x": 200,
+                        "y": 558
+                    },
+                    {
+                        "x": 87,
+                        "y": 558
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "Fernando Castro",
+                "cell_confidence": 0.9853429794311523,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 501,
+                    "x_max": 675,
+                    "y_max": 558
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 501
+                    },
+                    {
+                        "x": 675,
+                        "y": 501
+                    },
+                    {
+                        "x": 675,
+                        "y": 558
+                    },
+                    {
+                        "x": 200,
+                        "y": 558
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "TURNANDO J. CASTROLic. Terapia Ocupacional",
+                "cell_confidence": 0.9830324053764343,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 501,
+                    "x_max": 1151,
+                    "y_max": 558
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 501
+                    },
+                    {
+                        "x": 1151,
+                        "y": 501
+                    },
+                    {
+                        "x": 1151,
+                        "y": 558
+                    },
+                    {
+                        "x": 675,
+                        "y": 558
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "Lora",
+                "cell_confidence": 0.9748133420944214,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 501,
+                    "x_max": 1615,
+                    "y_max": 558
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 501
+                    },
+                    {
+                        "x": 1615,
+                        "y": 501
+                    },
+                    {
+                        "x": 1615,
+                        "y": 558
+                    },
+                    {
+                        "x": 1151,
+                        "y": 558
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 501,
+            "x_max": 1615,
+            "y_max": 558
+        }
+    },
+    {
+        "row_index": 1,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "2",
+                "cell_confidence": 0.9831675291061401,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 558,
+                    "x_max": 1615,
+                    "y_max": 610
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 558
+                    },
+                    {
+                        "x": 200,
+                        "y": 558
+                    },
+                    {
+                        "x": 200,
+                        "y": 610
+                    },
+                    {
+                        "x": 87,
+                        "y": 610
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9848666191101074,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 558,
+                    "x_max": 675,
+                    "y_max": 610
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 558
+                    },
+                    {
+                        "x": 675,
+                        "y": 558
+                    },
+                    {
+                        "x": 675,
+                        "y": 610
+                    },
+                    {
+                        "x": 200,
+                        "y": 610
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "MN 1262 - MP 189059FERNANDO J. CASTRO",
+                "cell_confidence": 0.9825561046600342,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 558,
+                    "x_max": 1151,
+                    "y_max": 610
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 558
+                    },
+                    {
+                        "x": 1151,
+                        "y": 558
+                    },
+                    {
+                        "x": 1151,
+                        "y": 610
+                    },
+                    {
+                        "x": 675,
+                        "y": 610
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9743369817733765,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 558,
+                    "x_max": 1615,
+                    "y_max": 610
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 558
+                    },
+                    {
+                        "x": 1615,
+                        "y": 558
+                    },
+                    {
+                        "x": 1615,
+                        "y": 610
+                    },
+                    {
+                        "x": 1151,
+                        "y": 610
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 558,
+            "x_max": 1615,
+            "y_max": 610
+        }
+    },
+    {
+        "row_index": 2,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "3",
+                "cell_confidence": 0.9807019829750061,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 610,
+                    "x_max": 1615,
+                    "y_max": 664
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 610
+                    },
+                    {
+                        "x": 200,
+                        "y": 610
+                    },
+                    {
+                        "x": 200,
+                        "y": 664
+                    },
+                    {
+                        "x": 87,
+                        "y": 664
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "Fernando Castro",
+                "cell_confidence": 0.9824011325836182,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 610,
+                    "x_max": 675,
+                    "y_max": 664
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 610
+                    },
+                    {
+                        "x": 675,
+                        "y": 610
+                    },
+                    {
+                        "x": 675,
+                        "y": 664
+                    },
+                    {
+                        "x": 200,
+                        "y": 664
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "LIC. Terapia Ocupacional",
+                "cell_confidence": 0.9800905585289001,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 610,
+                    "x_max": 1151,
+                    "y_max": 664
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 610
+                    },
+                    {
+                        "x": 1151,
+                        "y": 610
+                    },
+                    {
+                        "x": 1151,
+                        "y": 664
+                    },
+                    {
+                        "x": 675,
+                        "y": 664
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "жаша a",
+                "cell_confidence": 0.9718714952468872,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 610,
+                    "x_max": 1615,
+                    "y_max": 664
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 610
+                    },
+                    {
+                        "x": 1615,
+                        "y": 610
+                    },
+                    {
+                        "x": 1615,
+                        "y": 664
+                    },
+                    {
+                        "x": 1151,
+                        "y": 664
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 610,
+            "x_max": 1615,
+            "y_max": 664
+        }
+    },
+    {
+        "row_index": 3,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "4",
+                "cell_confidence": 0.9860902428627014,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 664,
+                    "x_max": 1615,
+                    "y_max": 718
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 664
+                    },
+                    {
+                        "x": 200,
+                        "y": 664
+                    },
+                    {
+                        "x": 200,
+                        "y": 718
+                    },
+                    {
+                        "x": 87,
+                        "y": 718
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9877893924713135,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 664,
+                    "x_max": 675,
+                    "y_max": 718
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 664
+                    },
+                    {
+                        "x": 675,
+                        "y": 664
+                    },
+                    {
+                        "x": 675,
+                        "y": 718
+                    },
+                    {
+                        "x": 200,
+                        "y": 718
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "MN 1262- MP 189059",
+                "cell_confidence": 0.9854788184165955,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 664,
+                    "x_max": 1151,
+                    "y_max": 718
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 664
+                    },
+                    {
+                        "x": 1151,
+                        "y": 664
+                    },
+                    {
+                        "x": 1151,
+                        "y": 718
+                    },
+                    {
+                        "x": 675,
+                        "y": 718
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9772597551345825,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 664,
+                    "x_max": 1615,
+                    "y_max": 718
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 664
+                    },
+                    {
+                        "x": 1615,
+                        "y": 664
+                    },
+                    {
+                        "x": 1615,
+                        "y": 718
+                    },
+                    {
+                        "x": 1151,
+                        "y": 718
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 664,
+            "x_max": 1615,
+            "y_max": 718
+        }
+    },
+    {
+        "row_index": 4,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "5",
+                "cell_confidence": 0.9861112833023071,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 718,
+                    "x_max": 1615,
+                    "y_max": 770
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 718
+                    },
+                    {
+                        "x": 200,
+                        "y": 718
+                    },
+                    {
+                        "x": 200,
+                        "y": 770
+                    },
+                    {
+                        "x": 87,
+                        "y": 770
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.987810492515564,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 718,
+                    "x_max": 675,
+                    "y_max": 770
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 718
+                    },
+                    {
+                        "x": 675,
+                        "y": 718
+                    },
+                    {
+                        "x": 675,
+                        "y": 770
+                    },
+                    {
+                        "x": 200,
+                        "y": 770
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9854998588562012,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 718,
+                    "x_max": 1151,
+                    "y_max": 770
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 718
+                    },
+                    {
+                        "x": 1151,
+                        "y": 718
+                    },
+                    {
+                        "x": 1151,
+                        "y": 770
+                    },
+                    {
+                        "x": 675,
+                        "y": 770
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.977280855178833,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 718,
+                    "x_max": 1615,
+                    "y_max": 770
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 718
+                    },
+                    {
+                        "x": 1615,
+                        "y": 718
+                    },
+                    {
+                        "x": 1615,
+                        "y": 770
+                    },
+                    {
+                        "x": 1151,
+                        "y": 770
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 718,
+            "x_max": 1615,
+            "y_max": 770
+        }
+    },
+    {
+        "row_index": 5,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "9",
+                "cell_confidence": 0.9907298684120178,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 770,
+                    "x_max": 1615,
+                    "y_max": 823
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 770
+                    },
+                    {
+                        "x": 200,
+                        "y": 770
+                    },
+                    {
+                        "x": 200,
+                        "y": 823
+                    },
+                    {
+                        "x": 87,
+                        "y": 823
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9924290180206299,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 770,
+                    "x_max": 675,
+                    "y_max": 823
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 770
+                    },
+                    {
+                        "x": 675,
+                        "y": 770
+                    },
+                    {
+                        "x": 675,
+                        "y": 823
+                    },
+                    {
+                        "x": 200,
+                        "y": 823
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9901184439659119,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 770,
+                    "x_max": 1151,
+                    "y_max": 823
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 770
+                    },
+                    {
+                        "x": 1151,
+                        "y": 770
+                    },
+                    {
+                        "x": 1151,
+                        "y": 823
+                    },
+                    {
+                        "x": 675,
+                        "y": 823
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9818993806838989,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 770,
+                    "x_max": 1615,
+                    "y_max": 823
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 770
+                    },
+                    {
+                        "x": 1615,
+                        "y": 770
+                    },
+                    {
+                        "x": 1615,
+                        "y": 823
+                    },
+                    {
+                        "x": 1151,
+                        "y": 823
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 770,
+            "x_max": 1615,
+            "y_max": 823
+        }
+    },
+    {
+        "row_index": 6,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "7",
+                "cell_confidence": 0.9894883632659912,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 823,
+                    "x_max": 1615,
+                    "y_max": 875
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 823
+                    },
+                    {
+                        "x": 200,
+                        "y": 823
+                    },
+                    {
+                        "x": 200,
+                        "y": 875
+                    },
+                    {
+                        "x": 87,
+                        "y": 875
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9911875128746033,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 823,
+                    "x_max": 675,
+                    "y_max": 875
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 823
+                    },
+                    {
+                        "x": 675,
+                        "y": 823
+                    },
+                    {
+                        "x": 675,
+                        "y": 875
+                    },
+                    {
+                        "x": 200,
+                        "y": 875
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "FERNANDO CASTRO",
+                "cell_confidence": 0.9888769388198853,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 823,
+                    "x_max": 1151,
+                    "y_max": 875
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 823
+                    },
+                    {
+                        "x": 1151,
+                        "y": 823
+                    },
+                    {
+                        "x": 1151,
+                        "y": 875
+                    },
+                    {
+                        "x": 675,
+                        "y": 875
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9806578755378723,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 823,
+                    "x_max": 1615,
+                    "y_max": 875
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 823
+                    },
+                    {
+                        "x": 1615,
+                        "y": 823
+                    },
+                    {
+                        "x": 1615,
+                        "y": 875
+                    },
+                    {
+                        "x": 1151,
+                        "y": 875
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 823,
+            "x_max": 1615,
+            "y_max": 875
+        }
+    },
+    {
+        "row_index": 7,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "00 8",
+                "cell_confidence": 0.9878078699111938,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 875,
+                    "x_max": 1615,
+                    "y_max": 929
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 875
+                    },
+                    {
+                        "x": 200,
+                        "y": 875
+                    },
+                    {
+                        "x": 200,
+                        "y": 929
+                    },
+                    {
+                        "x": 87,
+                        "y": 929
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "Fernando Castro",
+                "cell_confidence": 0.9895070195198059,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 875,
+                    "x_max": 675,
+                    "y_max": 929
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 875
+                    },
+                    {
+                        "x": 675,
+                        "y": 875
+                    },
+                    {
+                        "x": 675,
+                        "y": 929
+                    },
+                    {
+                        "x": 200,
+                        "y": 929
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "Lic. Terapia OcupacionalMN 1282 MP 189059",
+                "cell_confidence": 0.9871964454650879,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 875,
+                    "x_max": 1151,
+                    "y_max": 929
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 875
+                    },
+                    {
+                        "x": 1151,
+                        "y": 875
+                    },
+                    {
+                        "x": 1151,
+                        "y": 929
+                    },
+                    {
+                        "x": 675,
+                        "y": 929
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "Jawa",
+                "cell_confidence": 0.978977382183075,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 875,
+                    "x_max": 1615,
+                    "y_max": 929
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 875
+                    },
+                    {
+                        "x": 1615,
+                        "y": 875
+                    },
+                    {
+                        "x": 1615,
+                        "y": 929
+                    },
+                    {
+                        "x": 1151,
+                        "y": 929
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 875,
+            "x_max": 1615,
+            "y_max": 929
+        }
+    },
+    {
+        "row_index": 8,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "9",
+                "cell_confidence": 0.9882590770721436,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 929,
+                    "x_max": 1615,
+                    "y_max": 981
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 929
+                    },
+                    {
+                        "x": 200,
+                        "y": 929
+                    },
+                    {
+                        "x": 200,
+                        "y": 981
+                    },
+                    {
+                        "x": 87,
+                        "y": 981
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9899581670761108,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 929,
+                    "x_max": 675,
+                    "y_max": 981
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 929
+                    },
+                    {
+                        "x": 675,
+                        "y": 929
+                    },
+                    {
+                        "x": 675,
+                        "y": 981
+                    },
+                    {
+                        "x": 200,
+                        "y": 981
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "FERNANDO J. CASTRO",
+                "cell_confidence": 0.9876476526260376,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 929,
+                    "x_max": 1151,
+                    "y_max": 981
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 929
+                    },
+                    {
+                        "x": 1151,
+                        "y": 929
+                    },
+                    {
+                        "x": 1151,
+                        "y": 981
+                    },
+                    {
+                        "x": 675,
+                        "y": 981
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "-",
+                "cell_confidence": 0.9794285297393799,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 929,
+                    "x_max": 1615,
+                    "y_max": 981
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 929
+                    },
+                    {
+                        "x": 1615,
+                        "y": 929
+                    },
+                    {
+                        "x": 1615,
+                        "y": 981
+                    },
+                    {
+                        "x": 1151,
+                        "y": 981
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 929,
+            "x_max": 1615,
+            "y_max": 981
+        }
+    },
+    {
+        "row_index": 9,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "10",
+                "cell_confidence": 0.9864389300346375,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 981,
+                    "x_max": 1615,
+                    "y_max": 1036
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 981
+                    },
+                    {
+                        "x": 200,
+                        "y": 981
+                    },
+                    {
+                        "x": 200,
+                        "y": 1036
+                    },
+                    {
+                        "x": 87,
+                        "y": 1036
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "Fernando (Astro",
+                "cell_confidence": 0.9881380796432495,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 981,
+                    "x_max": 675,
+                    "y_max": 1036
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 981
+                    },
+                    {
+                        "x": 675,
+                        "y": 981
+                    },
+                    {
+                        "x": 675,
+                        "y": 1036
+                    },
+                    {
+                        "x": 200,
+                        "y": 1036
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "Lic. Terapia OcupacionalMN 1262- MP 189059",
+                "cell_confidence": 0.9858275055885315,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 981,
+                    "x_max": 1151,
+                    "y_max": 1036
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 981
+                    },
+                    {
+                        "x": 1151,
+                        "y": 981
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1036
+                    },
+                    {
+                        "x": 675,
+                        "y": 1036
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "Даша Коша",
+                "cell_confidence": 0.9776084423065186,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 981,
+                    "x_max": 1615,
+                    "y_max": 1036
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 981
+                    },
+                    {
+                        "x": 1615,
+                        "y": 981
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1036
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1036
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 981,
+            "x_max": 1615,
+            "y_max": 1036
+        }
+    },
+    {
+        "row_index": 10,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "11 14",
+                "cell_confidence": 0.9895666837692261,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1036,
+                    "x_max": 1615,
+                    "y_max": 1088
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1036
+                    },
+                    {
+                        "x": 200,
+                        "y": 1036
+                    },
+                    {
+                        "x": 200,
+                        "y": 1088
+                    },
+                    {
+                        "x": 87,
+                        "y": 1088
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9912658333778381,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1036,
+                    "x_max": 675,
+                    "y_max": 1088
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1036
+                    },
+                    {
+                        "x": 675,
+                        "y": 1036
+                    },
+                    {
+                        "x": 675,
+                        "y": 1088
+                    },
+                    {
+                        "x": 200,
+                        "y": 1088
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9889552593231201,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1036,
+                    "x_max": 1151,
+                    "y_max": 1088
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1036
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1036
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1088
+                    },
+                    {
+                        "x": 675,
+                        "y": 1088
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9807361960411072,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1036,
+                    "x_max": 1615,
+                    "y_max": 1088
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1036
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1036
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1088
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1088
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1036,
+            "x_max": 1615,
+            "y_max": 1088
+        }
+    },
+    {
+        "row_index": 11,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "2 12",
+                "cell_confidence": 0.9906906485557556,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1088,
+                    "x_max": 1615,
+                    "y_max": 1142
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1088
+                    },
+                    {
+                        "x": 200,
+                        "y": 1088
+                    },
+                    {
+                        "x": 200,
+                        "y": 1142
+                    },
+                    {
+                        "x": 87,
+                        "y": 1142
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9923897981643677,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1088,
+                    "x_max": 675,
+                    "y_max": 1142
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1088
+                    },
+                    {
+                        "x": 675,
+                        "y": 1088
+                    },
+                    {
+                        "x": 675,
+                        "y": 1142
+                    },
+                    {
+                        "x": 200,
+                        "y": 1142
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9900792241096497,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1088,
+                    "x_max": 1151,
+                    "y_max": 1142
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1088
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1088
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1142
+                    },
+                    {
+                        "x": 675,
+                        "y": 1142
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9818601608276367,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1088,
+                    "x_max": 1615,
+                    "y_max": 1142
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1088
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1088
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1142
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1142
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1088,
+            "x_max": 1615,
+            "y_max": 1142
+        }
+    },
+    {
+        "row_index": 12,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "13",
+                "cell_confidence": 0.9910986423492432,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1142,
+                    "x_max": 1615,
+                    "y_max": 1193
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1142
+                    },
+                    {
+                        "x": 200,
+                        "y": 1142
+                    },
+                    {
+                        "x": 200,
+                        "y": 1193
+                    },
+                    {
+                        "x": 87,
+                        "y": 1193
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9927977323532104,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1142,
+                    "x_max": 675,
+                    "y_max": 1193
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1142
+                    },
+                    {
+                        "x": 675,
+                        "y": 1142
+                    },
+                    {
+                        "x": 675,
+                        "y": 1193
+                    },
+                    {
+                        "x": 200,
+                        "y": 1193
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9904872179031372,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1142,
+                    "x_max": 1151,
+                    "y_max": 1193
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1142
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1142
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1193
+                    },
+                    {
+                        "x": 675,
+                        "y": 1193
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9822680950164795,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1142,
+                    "x_max": 1615,
+                    "y_max": 1193
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1142
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1142
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1193
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1193
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1142,
+            "x_max": 1615,
+            "y_max": 1193
+        }
+    },
+    {
+        "row_index": 13,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "14",
+                "cell_confidence": 0.9907126426696777,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1193,
+                    "x_max": 1615,
+                    "y_max": 1246
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1193
+                    },
+                    {
+                        "x": 200,
+                        "y": 1193
+                    },
+                    {
+                        "x": 200,
+                        "y": 1246
+                    },
+                    {
+                        "x": 87,
+                        "y": 1246
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9924117922782898,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1193,
+                    "x_max": 675,
+                    "y_max": 1246
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1193
+                    },
+                    {
+                        "x": 675,
+                        "y": 1193
+                    },
+                    {
+                        "x": 675,
+                        "y": 1246
+                    },
+                    {
+                        "x": 200,
+                        "y": 1246
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9901012182235718,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1193,
+                    "x_max": 1151,
+                    "y_max": 1246
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1193
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1193
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1246
+                    },
+                    {
+                        "x": 675,
+                        "y": 1246
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9818821549415588,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1193,
+                    "x_max": 1615,
+                    "y_max": 1246
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1193
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1193
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1246
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1246
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1193,
+            "x_max": 1615,
+            "y_max": 1246
+        }
+    },
+    {
+        "row_index": 14,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "177 15",
+                "cell_confidence": 0.9883997440338135,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1246,
+                    "x_max": 1615,
+                    "y_max": 1299
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1246
+                    },
+                    {
+                        "x": 200,
+                        "y": 1246
+                    },
+                    {
+                        "x": 200,
+                        "y": 1299
+                    },
+                    {
+                        "x": 87,
+                        "y": 1299
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9900989532470703,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1246,
+                    "x_max": 675,
+                    "y_max": 1299
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1246
+                    },
+                    {
+                        "x": 675,
+                        "y": 1246
+                    },
+                    {
+                        "x": 675,
+                        "y": 1299
+                    },
+                    {
+                        "x": 200,
+                        "y": 1299
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9877883195877075,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1246,
+                    "x_max": 1151,
+                    "y_max": 1299
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1246
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1246
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1299
+                    },
+                    {
+                        "x": 675,
+                        "y": 1299
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9795693159103394,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1246,
+                    "x_max": 1615,
+                    "y_max": 1299
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1246
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1246
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1299
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1299
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1246,
+            "x_max": 1615,
+            "y_max": 1299
+        }
+    },
+    {
+        "row_index": 15,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "16",
+                "cell_confidence": 0.9877374172210693,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1299,
+                    "x_max": 1615,
+                    "y_max": 1353
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1299
+                    },
+                    {
+                        "x": 200,
+                        "y": 1299
+                    },
+                    {
+                        "x": 200,
+                        "y": 1353
+                    },
+                    {
+                        "x": 87,
+                        "y": 1353
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9894365668296814,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1299,
+                    "x_max": 675,
+                    "y_max": 1353
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1299
+                    },
+                    {
+                        "x": 675,
+                        "y": 1299
+                    },
+                    {
+                        "x": 675,
+                        "y": 1353
+                    },
+                    {
+                        "x": 200,
+                        "y": 1353
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9871259927749634,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1299,
+                    "x_max": 1151,
+                    "y_max": 1353
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1299
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1299
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1353
+                    },
+                    {
+                        "x": 675,
+                        "y": 1353
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9789069294929504,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1299,
+                    "x_max": 1615,
+                    "y_max": 1353
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1299
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1299
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1353
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1353
+                    }
+                ]
+            }
+        ], 
+        "position": {
+            "x_min": 87,
+            "y_min": 1299,
+            "x_max": 1615,
+            "y_max": 1353
+        }
+    },
+    {
+        "row_index": 16,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "17 7",
+                "cell_confidence": 0.9867588877677917,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1353,
+                    "x_max": 1615,
+                    "y_max": 1406
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1353
+                    },
+                    {
+                        "x": 200,
+                        "y": 1353
+                    },
+                    {
+                        "x": 200,
+                        "y": 1406
+                    },
+                    {
+                        "x": 87,
+                        "y": 1406
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9884580373764038,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1353,
+                    "x_max": 675,
+                    "y_max": 1406
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1353
+                    },
+                    {
+                        "x": 675,
+                        "y": 1353
+                    },
+                    {
+                        "x": 675,
+                        "y": 1406
+                    },
+                    {
+                        "x": 200,
+                        "y": 1406
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9861474633216858,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1353,
+                    "x_max": 1151,
+                    "y_max": 1406
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1353
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1353
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1406
+                    },
+                    {
+                        "x": 675,
+                        "y": 1406
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9779284000396729,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1353,
+                    "x_max": 1615,
+                    "y_max": 1406
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1353
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1353
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1406
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1406
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1353,
+            "x_max": 1615,
+            "y_max": 1406
+        }
+    },
+    {
+        "row_index": 17,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "18",
+                "cell_confidence": 0.988473653793335,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1406,
+                    "x_max": 1615,
+                    "y_max": 1460
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1406
+                    },
+                    {
+                        "x": 200,
+                        "y": 1406
+                    },
+                    {
+                        "x": 200,
+                        "y": 1460
+                    },
+                    {
+                        "x": 87,
+                        "y": 1460
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9901727437973022,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1406,
+                    "x_max": 675,
+                    "y_max": 1460
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1406
+                    },
+                    {
+                        "x": 675,
+                        "y": 1406
+                    },
+                    {
+                        "x": 675,
+                        "y": 1460
+                    },
+                    {
+                        "x": 200,
+                        "y": 1460
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.987862229347229,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1406,
+                    "x_max": 1151,
+                    "y_max": 1460
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1406
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1406
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1460
+                    },
+                    {
+                        "x": 675,
+                        "y": 1460
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9796431064605713,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1406,
+                    "x_max": 1615,
+                    "y_max": 1460
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1406
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1406
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1460
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1460
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1406,
+            "x_max": 1615,
+            "y_max": 1460
+        }
+    },
+    {
+        "row_index": 18,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "19",
+                "cell_confidence": 0.987619161605835,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1460,
+                    "x_max": 1615,
+                    "y_max": 1512
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1460
+                    },
+                    {
+                        "x": 200,
+                        "y": 1460
+                    },
+                    {
+                        "x": 200,
+                        "y": 1512
+                    },
+                    {
+                        "x": 87,
+                        "y": 1512
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9893183708190918,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1460,
+                    "x_max": 675,
+                    "y_max": 1512
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1460
+                    },
+                    {
+                        "x": 675,
+                        "y": 1460
+                    },
+                    {
+                        "x": 675,
+                        "y": 1512
+                    },
+                    {
+                        "x": 200,
+                        "y": 1512
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.987007737159729,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1460,
+                    "x_max": 1151,
+                    "y_max": 1512
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1460
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1460
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1512
+                    },
+                    {
+                        "x": 675,
+                        "y": 1512
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9787887334823608,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1460,
+                    "x_max": 1615,
+                    "y_max": 1512
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1460
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1460
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1512
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1512
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1460,
+            "x_max": 1615,
+            "y_max": 1512
+        }
+    },
+    {
+        "row_index": 19,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "20 122",
+                "cell_confidence": 0.9888286590576172,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1512,
+                    "x_max": 1615,
+                    "y_max": 1567
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1512
+                    },
+                    {
+                        "x": 200,
+                        "y": 1512
+                    },
+                    {
+                        "x": 200,
+                        "y": 1567
+                    },
+                    {
+                        "x": 87,
+                        "y": 1567
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.990527868270874,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1512,
+                    "x_max": 675,
+                    "y_max": 1567
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1512
+                    },
+                    {
+                        "x": 675,
+                        "y": 1512
+                    },
+                    {
+                        "x": 675,
+                        "y": 1567
+                    },
+                    {
+                        "x": 200,
+                        "y": 1567
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9882172346115112,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1512,
+                    "x_max": 1151,
+                    "y_max": 1567
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1512
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1512
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1567
+                    },
+                    {
+                        "x": 675,
+                        "y": 1567
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9799982309341431,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1512,
+                    "x_max": 1615,
+                    "y_max": 1567
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1512
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1512
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1567
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1567
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1512,
+            "x_max": 1615,
+            "y_max": 1567
+        }
+    },
+    {
+        "row_index": 20,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "21",
+                "cell_confidence": 0.9877482652664185,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1567,
+                    "x_max": 1615,
+                    "y_max": 1617
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1567
+                    },
+                    {
+                        "x": 200,
+                        "y": 1567
+                    },
+                    {
+                        "x": 200,
+                        "y": 1617
+                    },
+                    {
+                        "x": 87,
+                        "y": 1617
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9894474744796753,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1567,
+                    "x_max": 675,
+                    "y_max": 1617
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1567
+                    },
+                    {
+                        "x": 675,
+                        "y": 1567
+                    },
+                    {
+                        "x": 675,
+                        "y": 1617
+                    },
+                    {
+                        "x": 200,
+                        "y": 1617
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "CASTRO",
+                "cell_confidence": 0.9871368408203125,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1567,
+                    "x_max": 1151,
+                    "y_max": 1617
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1567
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1567
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1617
+                    },
+                    {
+                        "x": 675,
+                        "y": 1617
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9789178371429443,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1567,
+                    "x_max": 1615,
+                    "y_max": 1617
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1567
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1567
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1617
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1617
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1567,
+            "x_max": 1615,
+            "y_max": 1617
+        }
+    },
+    {
+        "row_index": 21,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "22",
+                "cell_confidence": 0.9859554171562195,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1617,
+                    "x_max": 1615,
+                    "y_max": 1670
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1617
+                    },
+                    {
+                        "x": 200,
+                        "y": 1617
+                    },
+                    {
+                        "x": 200,
+                        "y": 1670
+                    },
+                    {
+                        "x": 87,
+                        "y": 1670
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "Fernando Castro",
+                "cell_confidence": 0.9876545667648315,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1617,
+                    "x_max": 675,
+                    "y_max": 1670
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1617
+                    },
+                    {
+                        "x": 675,
+                        "y": 1617
+                    },
+                    {
+                        "x": 675,
+                        "y": 1670
+                    },
+                    {
+                        "x": 200,
+                        "y": 1670
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "fie FERNANDO Lie. Terapia OcupacionalMP 189059",
+                "cell_confidence": 0.9853439927101135,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1617,
+                    "x_max": 1151,
+                    "y_max": 1670
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1617
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1617
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1670
+                    },
+                    {
+                        "x": 675,
+                        "y": 1670
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "faoveLava",
+                "cell_confidence": 0.9771249294281006,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1617,
+                    "x_max": 1615,
+                    "y_max": 1670
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1617
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1617
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1670
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1670
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1617,
+            "x_max": 1615,
+            "y_max": 1670
+        }
+    },
+    {
+        "row_index": 22,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "",
+                "cell_confidence": 0.9890217781066895,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1670,
+                    "x_max": 1615,
+                    "y_max": 1721
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1670
+                    },
+                    {
+                        "x": 200,
+                        "y": 1670
+                    },
+                    {
+                        "x": 200,
+                        "y": 1721
+                    },
+                    {
+                        "x": 87,
+                        "y": 1721
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9907209277153015,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1670,
+                    "x_max": 675,
+                    "y_max": 1721
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1670
+                    },
+                    {
+                        "x": 675,
+                        "y": 1670
+                    },
+                    {
+                        "x": 675,
+                        "y": 1721
+                    },
+                    {
+                        "x": 200,
+                        "y": 1721
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "MN 1262-",
+                "cell_confidence": 0.9884103536605835,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1670,
+                    "x_max": 1151,
+                    "y_max": 1721
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1670
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1670
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1721
+                    },
+                    {
+                        "x": 675,
+                        "y": 1721
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9801912903785706,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1670,
+                    "x_max": 1615,
+                    "y_max": 1721
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1670
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1670
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1721
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1721
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1670,
+            "x_max": 1615,
+            "y_max": 1721
+        }
+    },
+    {
+        "row_index": 23,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "24",
+                "cell_confidence": 0.9905996322631836,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1721,
+                    "x_max": 1615,
+                    "y_max": 1776
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1721
+                    },
+                    {
+                        "x": 200,
+                        "y": 1721
+                    },
+                    {
+                        "x": 200,
+                        "y": 1776
+                    },
+                    {
+                        "x": 87,
+                        "y": 1776
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9922987222671509,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1721,
+                    "x_max": 675,
+                    "y_max": 1776
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1721
+                    },
+                    {
+                        "x": 675,
+                        "y": 1721
+                    },
+                    {
+                        "x": 675,
+                        "y": 1776
+                    },
+                    {
+                        "x": 200,
+                        "y": 1776
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9899882078170776,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1721,
+                    "x_max": 1151,
+                    "y_max": 1776
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1721
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1721
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1776
+                    },
+                    {
+                        "x": 675,
+                        "y": 1776
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9817690849304199,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1721,
+                    "x_max": 1615,
+                    "y_max": 1776
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1721
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1721
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1776
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1776
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1721,
+            "x_max": 1615,
+            "y_max": 1776
+        }
+    },
+    {
+        "row_index": 24,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "26",
+                "cell_confidence": 0.9865676164627075,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1776,
+                    "x_max": 1615,
+                    "y_max": 1881
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1776
+                    },
+                    {
+                        "x": 200,
+                        "y": 1776
+                    },
+                    {
+                        "x": 200,
+                        "y": 1881
+                    },
+                    {
+                        "x": 87,
+                        "y": 1881
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9882667660713196,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1776,
+                    "x_max": 675,
+                    "y_max": 1881
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1776
+                    },
+                    {
+                        "x": 675,
+                        "y": 1776
+                    },
+                    {
+                        "x": 675,
+                        "y": 1881
+                    },
+                    {
+                        "x": 200,
+                        "y": 1881
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9859561920166016,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1776,
+                    "x_max": 1151,
+                    "y_max": 1881
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1776
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1776
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1881
+                    },
+                    {
+                        "x": 675,
+                        "y": 1881
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9777371287345886,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1776,
+                    "x_max": 1615,
+                    "y_max": 1881
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1776
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1776
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1881
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1881
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1776,
+            "x_max": 1615,
+            "y_max": 1881
+        }
+    },
+    {
+        "row_index": 25,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "222222235 27",
+                "cell_confidence": 0.9863665103912354,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1881,
+                    "x_max": 1615,
+                    "y_max": 1934
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1881
+                    },
+                    {
+                        "x": 200,
+                        "y": 1881
+                    },
+                    {
+                        "x": 200,
+                        "y": 1934
+                    },
+                    {
+                        "x": 87,
+                        "y": 1934
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9880657196044922,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1881,
+                    "x_max": 675,
+                    "y_max": 1934
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1881
+                    },
+                    {
+                        "x": 675,
+                        "y": 1881
+                    },
+                    {
+                        "x": 675,
+                        "y": 1934
+                    },
+                    {
+                        "x": 200,
+                        "y": 1934
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9857550859451294,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1881,
+                    "x_max": 1151,
+                    "y_max": 1934
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1881
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1881
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1934
+                    },
+                    {
+                        "x": 675,
+                        "y": 1934
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9775360822677612,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1881,
+                    "x_max": 1615,
+                    "y_max": 1934
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1881
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1881
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1934
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1934
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1881,
+            "x_max": 1615,
+            "y_max": 1934
+        }
+    },
+    {
+        "row_index": 26,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "28",
+                "cell_confidence": 0.9812699556350708,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1934,
+                    "x_max": 1615,
+                    "y_max": 1985
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1934
+                    },
+                    {
+                        "x": 200,
+                        "y": 1934
+                    },
+                    {
+                        "x": 200,
+                        "y": 1985
+                    },
+                    {
+                        "x": 87,
+                        "y": 1985
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9829690456390381,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1934,
+                    "x_max": 675,
+                    "y_max": 1985
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1934
+                    },
+                    {
+                        "x": 675,
+                        "y": 1934
+                    },
+                    {
+                        "x": 675,
+                        "y": 1985
+                    },
+                    {
+                        "x": 200,
+                        "y": 1985
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9806585311889648,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1934,
+                    "x_max": 1151,
+                    "y_max": 1985
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1934
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1934
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1985
+                    },
+                    {
+                        "x": 675,
+                        "y": 1985
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9724394083023071,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1934,
+                    "x_max": 1615,
+                    "y_max": 1985
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1934
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1934
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1985
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1985
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1934,
+            "x_max": 1615,
+            "y_max": 1985
+        }
+    },
+    {
+        "row_index": 27,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "29",
+                "cell_confidence": 0.9790331125259399,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 1985,
+                    "x_max": 1615,
+                    "y_max": 2038
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 1985
+                    },
+                    {
+                        "x": 200,
+                        "y": 1985
+                    },
+                    {
+                        "x": 200,
+                        "y": 2038
+                    },
+                    {
+                        "x": 87,
+                        "y": 2038
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9807323217391968,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 1985,
+                    "x_max": 675,
+                    "y_max": 2038
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 1985
+                    },
+                    {
+                        "x": 675,
+                        "y": 1985
+                    },
+                    {
+                        "x": 675,
+                        "y": 2038
+                    },
+                    {
+                        "x": 200,
+                        "y": 2038
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.978421688079834,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 1985,
+                    "x_max": 1151,
+                    "y_max": 2038
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 1985
+                    },
+                    {
+                        "x": 1151,
+                        "y": 1985
+                    },
+                    {
+                        "x": 1151,
+                        "y": 2038
+                    },
+                    {
+                        "x": 675,
+                        "y": 2038
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9702026844024658,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 1985,
+                    "x_max": 1615,
+                    "y_max": 2038
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 1985
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1985
+                    },
+                    {
+                        "x": 1615,
+                        "y": 2038
+                    },
+                    {
+                        "x": 1151,
+                        "y": 2038
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 1985,
+            "x_max": 1615,
+            "y_max": 2038
+        }
+    },
+    {
+        "row_index": 28,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "30",
+                "cell_confidence": 0.9827083349227905,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 2038,
+                    "x_max": 1615,
+                    "y_max": 2090
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 2038
+                    },
+                    {
+                        "x": 200,
+                        "y": 2038
+                    },
+                    {
+                        "x": 200,
+                        "y": 2090
+                    },
+                    {
+                        "x": 87,
+                        "y": 2090
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9844074249267578,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 2038,
+                    "x_max": 675,
+                    "y_max": 2090
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 2038
+                    },
+                    {
+                        "x": 675,
+                        "y": 2038
+                    },
+                    {
+                        "x": 675,
+                        "y": 2090
+                    },
+                    {
+                        "x": 200,
+                        "y": 2090
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9820969104766846,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 2038,
+                    "x_max": 1151,
+                    "y_max": 2090
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 2038
+                    },
+                    {
+                        "x": 1151,
+                        "y": 2038
+                    },
+                    {
+                        "x": 1151,
+                        "y": 2090
+                    },
+                    {
+                        "x": 675,
+                        "y": 2090
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.9738777875900269,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 2038,
+                    "x_max": 1615,
+                    "y_max": 2090
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 2038
+                    },
+                    {
+                        "x": 1615,
+                        "y": 2038
+                    },
+                    {
+                        "x": 1615,
+                        "y": 2090
+                    },
+                    {
+                        "x": 1151,
+                        "y": 2090
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 2038,
+            "x_max": 1615,
+            "y_max": 2090
+        }
+    },
+    {
+        "row_index": 29,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "31",
+                "cell_confidence": 0.9793621897697449,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 2090,
+                    "x_max": 1615,
+                    "y_max": 2141
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 2090
+                    },
+                    {
+                        "x": 200,
+                        "y": 2090
+                    },
+                    {
+                        "x": 200,
+                        "y": 2141
+                    },
+                    {
+                        "x": 87,
+                        "y": 2141
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.9810613393783569,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 2090,
+                    "x_max": 675,
+                    "y_max": 2141
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 2090
+                    },
+                    {
+                        "x": 675,
+                        "y": 2090
+                    },
+                    {
+                        "x": 675,
+                        "y": 2141
+                    },
+                    {
+                        "x": 200,
+                        "y": 2141
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.9787507653236389,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 2090,
+                    "x_max": 1151,
+                    "y_max": 2141
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 2090
+                    },
+                    {
+                        "x": 1151,
+                        "y": 2090
+                    },
+                    {
+                        "x": 1151,
+                        "y": 2141
+                    },
+                    {
+                        "x": 675,
+                        "y": 2141
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "",
+                "cell_confidence": 0.970531702041626,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 2090,
+                    "x_max": 1615,
+                    "y_max": 2141
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 2090
+                    },
+                    {
+                        "x": 1615,
+                        "y": 2090
+                    },
+                    {
+                        "x": 1615,
+                        "y": 2141
+                    },
+                    {
+                        "x": 1151,
+                        "y": 2141
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 2090,
+            "x_max": 1615,
+            "y_max": 2141
+        }
+    },
+    {
+        "row_index": 30,
+        "cells": [
+            {
+                "column_name": "N",
+                "cell_text": "",
+                "cell_confidence": 0.87770676612854,
+                "position": {
+                    "x_min": 87,
+                    "y_min": 2141,
+                    "x_max": 1615,
+                    "y_max": 2195
+                },
+                "bounding_poly": [
+                    {
+                        "x": 87,
+                        "y": 2141
+                    },
+                    {
+                        "x": 200,
+                        "y": 2141
+                    },
+                    {
+                        "x": 200,
+                        "y": 2195
+                    },
+                    {
+                        "x": 87,
+                        "y": 2195
+                    }
+                ]
+            },
+            {
+                "column_name": "PROFESIONAL",
+                "cell_text": "",
+                "cell_confidence": 0.8794059157371521,
+                "position": {
+                    "x_min": 200,
+                    "y_min": 2141,
+                    "x_max": 675,
+                    "y_max": 2195
+                },
+                "bounding_poly": [
+                    {
+                        "x": 200,
+                        "y": 2141
+                    },
+                    {
+                        "x": 675,
+                        "y": 2141
+                    },
+                    {
+                        "x": 675,
+                        "y": 2195
+                    },
+                    {
+                        "x": 200,
+                        "y": 2195
+                    }
+                ]
+            },
+            {
+                "column_name": "PRESENTISMO FIRMA PROFESIONALCASTRO",
+                "cell_text": "",
+                "cell_confidence": 0.8770953416824341,
+                "position": {
+                    "x_min": 675,
+                    "y_min": 2141,
+                    "x_max": 1151,
+                    "y_max": 2195
+                },
+                "bounding_poly": [
+                    {
+                        "x": 675,
+                        "y": 2141
+                    },
+                    {
+                        "x": 1151,
+                        "y": 2141
+                    },
+                    {
+                        "x": 1151,
+                        "y": 2195
+                    },
+                    {
+                        "x": 675,
+                        "y": 2195
+                    }
+                ]
+            },
+            {
+                "column_name": "FIRMA FAMILIAR",
+                "cell_text": "Faia londo",
+                "cell_confidence": 0.8688762784004211,
+                "position": {
+                    "x_min": 1151,
+                    "y_min": 2141,
+                    "x_max": 1615,
+                    "y_max": 2195
+                },
+                "bounding_poly": [
+                    {
+                        "x": 1151,
+                        "y": 2141
+                    },
+                    {
+                        "x": 1615,
+                        "y": 2141
+                    },
+                    {
+                        "x": 1615,
+                        "y": 2195
+                    },
+                    {
+                        "x": 1151,
+                        "y": 2195
+                    }
+                ]
+            }
+        ],
+        "position": {
+            "x_min": 87,
+            "y_min": 2141,
+            "x_max": 1615,
+            "y_max": 2195
+        }
+    }
+]
