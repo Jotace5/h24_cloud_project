@@ -49,7 +49,7 @@ Inside the `tabular_extractor` folder, you will find two subfolders: `data_to_te
       This folder contains an example file used to understand the functioning of the model and the confidence obtained in the extracted data.
 
    - **output_analysis**
-      In this folder, you will find `extraction_analysis.py`.
+      In this folder, you will find `extraction_analysis.py`. This Python script is designed to convert JSON data extracted from a document analysis process into a structured CSV format. The JSON data is assumed to contain information about specific days, professionals, and their signatures extracted from a set of documents
 
 ## Example Usage
 Here's an example of how to use the script:

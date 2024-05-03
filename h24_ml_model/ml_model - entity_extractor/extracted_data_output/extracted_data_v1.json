@@ -1,0 +1,32 @@
+[
+    {
+        "Type": "Entity",
+        "EntityType": "fecha",
+        "Text": "MES/AÑO Enero 2022",
+        "Confidence": 0.9992986917495728
+    },
+    {
+        "Type": "Entity",
+        "EntityType": "firma_conformidad",
+        "Text": "Firma, aclaración y DNI:",
+        "Confidence": 0.7159512639045715
+    },
+    {
+        "Type": "Entity",
+        "EntityType": "entidad",
+        "Text": "ENTIDAD:",
+        "Confidence": 0.3717394769191742
+    },
+    {
+        "Type": "Entity",
+        "EntityType": "paciente",
+        "Text": "PACIENTE: Steinnman Florencia",
+        "Confidence": 0.34150931239128113
+    },
+    {
+        "Type": "Entity",
+        "EntityType": "firma_profesional",
+        "Text": "Firma y Aclaración: Robert Marquez BravoMédico-MIN. 177389",
+        "Confidence": 0.2824600040912628
+    }
+]

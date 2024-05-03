@@ -1,5 +1,19 @@
 import json
 import csv
+#Description
+'''
+Usage Description
+This Python script is designed to convert JSON data extracted from a document analysis process into a structured CSV format. The JSON data is assumed to contain information about specific days, professionals, and their signatures extracted from a set of documents. The script iterates through the JSON data, corrects any discrepancies in the day sequence, and assigns binary values (1 or 0) based on the presence of values in certain cells. Finally, it writes the processed data into a CSV file.
+
+Script Output
+The script generates a CSV file containing the following columns:
+
+    Day: Represents the day number.
+    Professional: Indicates whether there is data related to a professional on that day (1 if present, 0 if absent).
+    Professional Signature: Indicates whether there is a professional signature on that day (1 if present, 0 if absent).
+    Family Signature: Indicates whether there is a family signature on that day (1 if present, 0 if absent).
+    
+The CSV file is saved at the specified path, and upon completion, the script prints a confirmation message indicating the successful saving of the data.'''
 
 # Replace this with the path to your JSON file
 json_path = r'...\output_analysis\Form9- T.O_extracted-v2.json'
