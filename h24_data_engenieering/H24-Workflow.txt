@@ -1,24 +1,19 @@
+This is a detailed explanation of the process of selecting and separating spreadsheets according to the House24 company:
 
-Se detalla el proceso de seleccion y separacion de las planillas segun la empresa House24:
+CAREGIVER
 
+On one hand, we identify that the attendance spreadsheet should contain the patient's name and surname, the billing period, and the health insurance at the top. Additionally, the attended days must be signed in the corresponding date row: in the first column, the staff member's name, in the second column, their signature, and in the third column, the patient/family member's signature. Finally, at the bottom of the spreadsheet, on the left side, the staff member's signature, clarification, and ID should be present. On the right side, the patient/family member's signature, clarification, and ID should be included.
 
+On the other hand, the progress spreadsheet should also contain the patient's name and the period. In the left column, the date of the worked day should be placed, and in the larger column on the right side, the activities performed during the shift should be described. This progress should include entry and exit times. At the end of the daily report, they must sign below, with name, signature, and ID.
 
-CUIDADOR
+NURSING
 
-Por un lado, identificamos que la planilla de presentismo contenga el nombre y apellido del paciente, el período a facturar, y la obra social en la parte superior. También, deben estar firmados los días asistidos en el renglón de la fecha correspondiente: en la primera columna el nombre del personal, en la segunda columna su firma, y en la tercera columna la firma del paciente/familiar. Finalmente, en la parte inferior de la planilla, a la izquierda debe estar la firma del personal, la aclaración y el DNI. Y en la parte derecha, debe estar la firma, la aclaración y el DNI del paciente/familiar.
+On one hand, we identify that the attendance spreadsheet should contain the patient's name and surname, the billing period, and the health insurance at the top. Additionally, the attended days must be signed in the corresponding date row: in the first column, the staff member's name, in the second column, their stamp, and in the third column, the patient/family member's signature. Finally, at the bottom of the spreadsheet, on the left side, the staff member's signature and stamp should be present. On the right side, the patient/family member's signature, clarification, and ID should be included.
 
-Por otro lado, la planilla de evolución debe contener también el nombre del paciente y el período. En la columna de la izquierda, deben colocar la fecha del día trabajado, y en la columna más grande de la derecha deben describir las actividades que realizan durante la guardia trabajada. Esta evolución debe contener horarios de ingreso y salida. Y al finalizar la redacción diaria, deben firmar por debajo, con nombre, firma y DNI. 
+On the other hand, the progress spreadsheet should also contain the patient's name and the period. In the left column, the date of the worked day (which must match the previously signed row in the attendance spreadsheet) should be placed, and in the larger column on the right side, the activities performed during the shift (or service) should be described. This progress should include entry and exit times. At the end of the daily report, they must sign below, with signature and stamp.
 
+PHYSIOTHERAPY / SPEECH THERAPY / OCCUPATIONAL THERAPY
 
-ENFERMERÍA
+On one hand, we identify that the attendance spreadsheet should contain the patient's name and surname, the billing period, and the health insurance at the top. Additionally, the attended days must be signed in the corresponding date row: in the first column, the staff member's name, in the second column, their stamp, and in the third column, the patient/family member's signature. Finally, at the bottom of the spreadsheet, on the left side, the staff member's signature and stamp should be present. On the right side, the patient/family member's signature, clarification, and ID should be included.
 
-Por un lado, identificamos que la planilla de presentismo contenga el nombre y apellido del paciente, el período a facturar, y la obra social en la parte superior. También, deben estar firmados los días asistidos en el renglón de la fecha correspondiente: en la primera columna el nombre del personal, en la segunda columna su sello, y en la tercera columna la firma del paciente/familiar. Finalmente, en la parte inferior de la planilla, a la izquierda debe estar la firma del personal y su sello. Y en la parte derecha, debe estar la firma, la aclaración y el DNI del paciente/familiar.
-
-Por otro lado, la planilla de evolución debe contener también el nombre del paciente y el período. En la columna de la izquierda, deben colocar la fecha del día trabajado (la cual debe coincidir con el renglón firmado anteriormente en la planilla de presentismo), y en la columna más grande de la derecha deben describir las actividades que realizan durante la guardia (o prestación) trabajada. Esta evolución debe contener horarios de ingreso y salida. Y al finalizar la redacción diaria, deben firmar por debajo, con firma y sello.
-
-
-KINESIOLOGÍA/ FONOAUDIOLOGÍA/ TERAPIA OCUPACIONAL
-
-Por un lado, identificamos que la planilla de presentismo contenga el nombre y apellido del paciente, el período a facturar, y la obra social en la parte superior. También, deben estar firmados los días asistidos en el renglón de la fecha correspondiente: en la primera columna el nombre del personal, en la segunda columna su sello, y en la tercera columna la firma del paciente/familiar. Finalmente, en la parte inferior de la planilla, a la izquierda debe estar la firma del personal y su sello. Y en la parte derecha, debe estar la firma, la aclaración y el DNI del paciente/familiar.
-
-Por otro lado, la planilla de evolución debe contener también el nombre del paciente y el período. En la columna de la izquierda, deben colocar la fecha del día trabajado (la cual debe coincidir con el renglón firmado anteriormente en la planilla de presentismo), y en la columna más grande de la derecha deben describir las actividades que realizan durante la prestación. Para finalizar, deben firmar por debajo, con firma y sello.
+On the other hand, the progress spreadsheet should also contain the patient's name and the period. In the left column, the date of the worked day (which must match the previously signed row in the attendance spreadsheet) should be placed, and in the larger column on the right side, the activities performed during the service should be described. To finish, they must sign below, with signature and stamp.
