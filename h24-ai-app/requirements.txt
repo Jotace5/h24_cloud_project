@@ -1,0 +1,10 @@
+pandas
+tqdm
+google-cloud-documentai
+pymupdf
+json
+os
+sys
+logging
+itertools
+typing
