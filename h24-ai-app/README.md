@@ -3,6 +3,9 @@
 ## Introduction
 Welcome to the PDF document processing backend developed for House 24. This Python script harnesses the power of Google Cloud Document AI service along with custom processors to streamline and expedite the invoicing process.
 
+## Project Development Journey
+I initiated the development process in October 2023, spending three months training various data reading and extraction models using the GCP Document AI service. Once I acquired sufficient knowledge, I aimed to develop an automated document management system. I synthesized the client's request and based on the methods used by the data entry employees, I designed an automated workflow where PDF files are divided based on page type. Each part of the document is then sent through different processors trained on GCP. Once each processor extracts the corresponding information, a confidence value is added to determine the effectiveness of the result. All processor extractions are collected in a single JSON file, which is later interpreted and analyzed by another section of the app before displaying the results through a web interface.
+
 ## Functionality Overview
 The backend script provides the following functionalities:
 
