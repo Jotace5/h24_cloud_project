@@ -62,3 +62,14 @@ Use this section to document updates and changes made to the script over time. I
 
 ## Note
 Ensure that your Google Cloud project has the necessary permissions and billing enabled to use the Document AI API. Also, review and adjust the script's functionality and configurations as needed to fit your specific invoicing workflow.
+
+## Folder Contents
+In this folder, you will find:
+
+- **`README.md`**: This file, providing an overview of the PDF document processing backend.
+- **`requirements.txt`**: A file listing all the required Python libraries and their versions.
+- **`main_file.py`**: contains the main Python script responsible for processing PDF documents using the Google Cloud Document AI service and custom processors.
+- **`keys/`**: A directory containing service account credentials and processor configuration files.
+- **`processors/`**: A directory where you can place custom processing scripts for PDF documents.
+- **`input_data/`**: A directory for storing input PDF files to be processed.
+- **`output/`**: A directory where processed results, such as JSON files, are stored. Here you will find an example file. This is the JSON response from the program.
