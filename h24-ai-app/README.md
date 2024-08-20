@@ -47,7 +47,7 @@ Use this section to document updates and changes made to the script over time. I
 
 
 ### 10. Architecture Overview
- ![Alt text](h24-ai-app/h24%20app.png)
+ ![Alt text](h24%20app.png)
 
 ## Usage
 1. **Installation:** Ensure that you have Python installed along with the necessary libraries listed in the `requirements.txt` file.
